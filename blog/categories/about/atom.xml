@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[It's icerunz]]></title>
-  <link href="http://icerunz.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: About | It's icerunz]]></title>
+  <link href="http://icerunz.github.com/blog/categories/about/atom.xml" rel="self"/>
   <link href="http://icerunz.github.com/"/>
   <updated>2012-03-10T23:44:12+08:00</updated>
   <id>http://icerunz.github.com/</id>
